@@ -28,3 +28,4 @@
 * at video part 3 shows how to add image, tag/anchor to a page, add links etc
 
 * explain logic (nested toc tree) to arrange server - schema - tables
+* update
